@@ -1,6 +1,7 @@
-<h3 align="left">Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 18 y.o.</h3>
-
-## I'm student from Kharkiv, Ukraine 🇺🇦
+<h2 align="left">
+    Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 18 y.o.<br>
+    I'm student from Kharkiv, Ukraine 🇺🇦
+</h2>
 
 - 👨‍💻 I like to write code.
 - 💫 I am constanly learning new things
