@@ -36,4 +36,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/rlytvynov?username=rlytvynov)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="center" src="https://raw.githubusercontent.com/rlytvynov/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAABRTWSHTVKWQGA2ACFPFYQ6EYRPFDRA" />
