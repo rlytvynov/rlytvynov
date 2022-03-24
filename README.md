@@ -35,5 +35,5 @@
     <img alt="swift" src="https://img.shields.io/badge/-Swift-F05032?style=flat-flat&logo=swift&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
