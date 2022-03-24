@@ -1,4 +1,4 @@
-<h3 align="center">Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 18 y.o.</h3>
+<h3 align="left">Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 18 y.o.</h3>
 
 ## I'm student from Kharkiv, Ukraine 🇺🇦
 
@@ -7,13 +7,14 @@
 - 💪 I like do sport: volleybal, swimming, footbal, table tennis, chess.
 - 📜 I like history.
 - ✈️ I like traveling
+- 🇺🇦🇷🇺🇬🇧🇩🇪
 
 ### Connect with me:
 <p align="left">
-    <a href = "https://www.instagram.com/litva_odobryayet/"><img src="contacts/instagram.png" width = "50px"/></a>
-    <a href = "https://t.me/RaMzeSS03"><img src="contacts/telegram.png" width = "50px"/></a>
-    <a href = "https://twitter.com/rlytvynov03"><img src="contacts/twitter.png" width = "50px"/></a>
-    <a href = "mailto:litvinromeo@gmail.com"><img src="contacts/gmail.png" width = "50px"/></a>
+    <a href = "https://www.instagram.com/litva_odobryayet/"><img src="contacts/instagram.png" width = "30px"/></a>
+    <a href = "https://t.me/RaMzeSS03"><img src="contacts/telegram.png" width = "30px"/></a>
+    <a href = "https://twitter.com/rlytvynov03"><img src="contacts/twitter.png" width = "30px"/></a>
+    <a href = "mailto:litvinromeo@gmail.com"><img src="contacts/gmail.png" width = "30px"/></a>
 </p>
 
 ### Languages and tools
