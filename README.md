@@ -34,6 +34,6 @@
     <img alt="java" src="https://img.shields.io/badge/-Java-orange?style=flat-flat&logo=java&logoColor=white" />
     <img alt="swift" src="https://img.shields.io/badge/-Swift-F05032?style=flat-flat&logo=swift&logoColor=white" />
 </p>
-<p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
