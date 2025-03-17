@@ -31,8 +31,9 @@
     <br/>
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-flat&logo=c%2B%2B&logoColor=white" />
-    <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-darklime?style=flat-flat&logo=NodeJS&logoColor=white" />
-    <img alt="java" src="https://img.shields.io/badge/-Java-orange?style=flat-flat&logo=java&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
