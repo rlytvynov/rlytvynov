@@ -22,7 +22,7 @@
 ### Languages and tools
 <p align="left">
     <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
-    <img alt="React" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
+    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
     <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-flat&logo=c%2B%2B&logoColor=white" />
