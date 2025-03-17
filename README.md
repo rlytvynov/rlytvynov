@@ -7,9 +7,9 @@
 - 👨‍💻 I like to write code.
 - 💫 I am constanly learning new things
 - 💪 I like do sport: volleybal, swimming, footbal, table tennis, chess.
-- 📜 I like history.
+- 📜 I like programming, history.
 - ✈️ I like traveling
-- 🇺🇦🇷🇺🇬🇧🇩🇪
+- 🇷🇺🇺🇦🇧🇬🇬🇧🇩🇪
 
 ### Connect with me:
 <p align="left">
@@ -34,6 +34,9 @@
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-flat&logo=c%2B%2B&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+    <br/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
