@@ -2,8 +2,7 @@
     Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 22 y.o.<br>
 </h3>
 
-## I'm student from Melitopl, Ukraine 🇺🇦
-
+## I'm student at Sofia University 🇧🇬, Faculty of Mathematics and Informatics
 - 👨‍💻 I like to write code.
 - 💫 I am constanly learning new things
 - 💪 I like do sport: volleybal, swimming, footbal, table tennis, chess.
