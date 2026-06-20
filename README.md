@@ -12,10 +12,10 @@
 
 ### Connect with me:
 <p align="left">
-    <a href = "https://www.instagram.com/litva_odobryayet/"><img src="contacts/instagram.png" width = "30px"/></a>
-    <a href = "https://t.me/RaMzeSS03"><img src="contacts/telegram.png" width = "30px"/></a>
-    <a href = "https://twitter.com/rlytvynov03"><img src="contacts/twitter.png" width = "30px"/></a>
-    <a href = "mailto:litvinromeo@gmail.com"><img src="contacts/gmail.png" width = "30px"/></a>
+    <a href = "https://www.instagram.com/rlytvynov"><img src="contacts/instagram.png" width = "30px"/></a>
+    <a href = "https://t.me/rlytvynov"><img src="contacts/telegram.png" width = "30px"/></a>
+    <a href = "[https://x.com/__rlitvinov__](https://x.com/__rlitvinov__)"><img src="contacts/twitter.png" width = "30px"/></a>
+    <a href = "mailto:litvinromaha@icloud.com"><img src="contacts/gmail.png" width = "30px"/></a>
 </p>
 
 ### Languages and tools
