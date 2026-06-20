@@ -1,41 +1,99 @@
-<h3 align="left">
-    Hi everyone<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>, I'm Roman, 22 y.o.<br>
-</h3>
+<h1 align="center">Hi, I'm Roman Lytvynov 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | ML & Data Analysis Enthusiast</h3>
 
-## I'm а student at Sofia University 🇧🇬, Faculty of Mathematics and Informatics
-- 👨‍💻 I like to write code.
-- 💫 I am constanly learning new things
-- 💪 I like do sport: volleybal, swimming, footbal, table tennis, chess.
-- 📜 I like programming, history.
-- ✈️ I like traveling
-- 🇷🇺🇺🇦🇧🇬🇬🇧🇩🇪
-
-### Connect with me:
-<p align="left">
-    <a href = "https://www.instagram.com/rlytvynov"><img src="contacts/instagram.png" width = "30px"/></a>
-    <a href = "https://t.me/rlytvynov"><img src="contacts/telegram.png" width = "30px"/></a>
-    <a href = "[https://x.com/__rlitvinov__](https://x.com/__rlitvinov__)"><img src="contacts/twitter.png" width = "30px"/></a>
-    <a href = "mailto:litvinromaha@icloud.com"><img src="contacts/gmail.png" width = "30px"/></a>
+<p align="center">
+  Motivated Software Engineer and 4th-year Information Systems student. Experienced in full-cycle web development and building machine learning models. A quick learner, open to new challenges, and eager to build efficient, scalable software solutions.
 </p>
 
-### Languages and tools
-<p align="left">
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-flat&logo=git&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    <br/>
-    <img alt="html" src="https://img.shields.io/badge/-HTML-orange?style=flat-flat&logo=html&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat-flat&logo=css&logoColor=white" />
-    <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
-    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <br/>
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-flat&logo=c%2B%2B&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-    <br/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rlitvinov03"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/rlytvynov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:litvinromaha@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/__rlitvinov__"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** 
+  - **Sofia University (FMI) 🇧🇬:** B.Sc. candidate in Information Systems (4th year, Present).
+  - **Kharkiv Polytechnic Institute 🇺🇦:** B.Sc. in Software Engineering (2020–2024).
+- 💼 **Experience:** Intern at **Progress Software** (2025) – Developed React UI components, supported CI/CD pipelines, and provided direct technical support for the ThemeBuilder web application.
+- 🌍 **Languages:** Russian (Fluent), English (B2), Bulgarian (B2), German (A2).
+- ⚡ **Interests:** Data Analysis, Machine Learning, Full-Stack Development, and History.
+- 🎾 **Hobbies:** Chess, volleyball, football, swimming, table tennis, and traveling.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages:**
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+**Full-Stack Development:**
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Machine Learning & Data Science:**
+<p align="left">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-1582e0?style=flat-square" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+**Databases & DevOps:**
+<p align="left">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Key Projects
+
+### 📊 Smoker Status Prediction (ML Engineer)
+Built an end-to-end machine learning pipeline for smoker status prediction.
+* **Stack:** Python, Scikit-learn, XGBoost, TensorFlow, SHAP.
+* **Impact:** Achieved an **ROC-AUC of 0.8929** through extensive feature engineering, hyperparameter optimization, and ensemble learning.
+
+### 🛒 Electroterm (Full-Stack Developer)
+Developed a full-stack e-commerce platform.
+* **Stack:** React, Redux, Express.js, Oracle Database, PL/SQL, NestJS.
+* **Impact:** Implemented scalable business logic, robust inventory management, and secure transactional data processing.
+
+### 💬 FlashTalk (Full-Stack Developer)
+Built a Discord-inspired real-time messaging platform.
+* **Stack:** React, Redux, Express.js, WebSockets.
+* **Impact:** Successfully integrated channel management, user authentication, and seamless real-time communication features.
+
+### 🏆 FMI Codes Hackathon (Team Member)
+Developed a full-stack statistical web application within a 48-hour timeframe.
+* **Stack:** React, Node.js, PostgreSQL, Python (ML models).
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlytvynov&layout=compact&theme=radical" alt="Top Langs" />
+</p>
